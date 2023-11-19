@@ -1,0 +1,3 @@
+wandb
+*.safetensors
+lora-trained-xl_rem
